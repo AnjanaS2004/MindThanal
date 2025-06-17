@@ -55,9 +55,9 @@ mindthanal/
 
 | Name     | Contribution             |
 | -------- | ------------------------ |
-| Sabari R | Frontend Developer       |
+| Sabari R Nadh | Frontend Developer       |
 | Anjana S | Frontend Developer       |
-| Veda     | Frontend Developer       |
+| Vedasree M    | Frontend Developer       |
 | Adersh A | Groq API & Training Data |
 
 ---

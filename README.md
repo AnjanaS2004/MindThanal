@@ -1,4 +1,4 @@
-# 🧠 MindThanal – A Mental Health Chatbot
+# 🧠 MindThanal – A shelter for your mind
 
 MindThanal is a Generative AI-based mental health chatbot developed during the 2025 Generative AI Hackathon. It provides empathetic responses to users, helping them share their thoughts and feel emotionally better. It supports voice input and intelligent suggestions to assist users in times of stress, anxiety, or loneliness.
 
